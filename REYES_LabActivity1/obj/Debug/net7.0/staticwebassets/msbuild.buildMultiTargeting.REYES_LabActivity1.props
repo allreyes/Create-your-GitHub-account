@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REYES_LabActivity1.props" />
+</Project>
