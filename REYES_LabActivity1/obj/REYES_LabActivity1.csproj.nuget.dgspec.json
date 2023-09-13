@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Allyson\\source\\repos\\REYES_LabActivity1\\REYES_LabActivity1\\REYES_LabActivity1.csproj": {}
+    "C:\\Users\\Allyson\\Documents\\School\\4th Year (2023-2024)\\ELE 1 (PROFESSIONAL ELECTIVE 1 (SPECIALIZATION))\\HOMEWORKS\\Create-your-GitHub-account\\REYES_LabActivity1\\REYES_LabActivity1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Allyson\\source\\repos\\REYES_LabActivity1\\REYES_LabActivity1\\REYES_LabActivity1.csproj": {
+    "C:\\Users\\Allyson\\Documents\\School\\4th Year (2023-2024)\\ELE 1 (PROFESSIONAL ELECTIVE 1 (SPECIALIZATION))\\HOMEWORKS\\Create-your-GitHub-account\\REYES_LabActivity1\\REYES_LabActivity1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Allyson\\source\\repos\\REYES_LabActivity1\\REYES_LabActivity1\\REYES_LabActivity1.csproj",
+        "projectUniqueName": "C:\\Users\\Allyson\\Documents\\School\\4th Year (2023-2024)\\ELE 1 (PROFESSIONAL ELECTIVE 1 (SPECIALIZATION))\\HOMEWORKS\\Create-your-GitHub-account\\REYES_LabActivity1\\REYES_LabActivity1.csproj",
         "projectName": "REYES_LabActivity1",
-        "projectPath": "C:\\Users\\Allyson\\source\\repos\\REYES_LabActivity1\\REYES_LabActivity1\\REYES_LabActivity1.csproj",
+        "projectPath": "C:\\Users\\Allyson\\Documents\\School\\4th Year (2023-2024)\\ELE 1 (PROFESSIONAL ELECTIVE 1 (SPECIALIZATION))\\HOMEWORKS\\Create-your-GitHub-account\\REYES_LabActivity1\\REYES_LabActivity1.csproj",
         "packagesPath": "C:\\Users\\Allyson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Allyson\\source\\repos\\REYES_LabActivity1\\REYES_LabActivity1\\obj\\",
+        "outputPath": "C:\\Users\\Allyson\\Documents\\School\\4th Year (2023-2024)\\ELE 1 (PROFESSIONAL ELECTIVE 1 (SPECIALIZATION))\\HOMEWORKS\\Create-your-GitHub-account\\REYES_LabActivity1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Allyson\\AppData\\Roaming\\NuGet\\NuGet.Config",
