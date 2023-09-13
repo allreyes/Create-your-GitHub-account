@@ -1,7 +1,7 @@
 <h2>Instructor page</h2>
 
 <div>
-   <table>
+   <table class="table table-dark">
       <thead>
          <tr>
             <th>Instructor ID</th>
@@ -21,7 +21,8 @@
                     <td>@element.instructorFirstName</td>
                     <td>@element.instructorLastName</td>
                     <td>@element.instructorRank</td>
-                    <td>@element.instructorDateHired</td>
+                        <td>@element.instructorDateHired</td>
+                        <td><a asp-action="ShowDetail" asp-route-id="@element.instructorID">Show Details</a></td>
                  </tr>
                 }
             }

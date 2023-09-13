@@ -1,10 +1,3 @@
-C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.AssemblyInfoInputs.cache
-C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.AssemblyInfo.cs
-C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.csproj.CoreCompileInputs.cache
-C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.RazorAssemblyInfo.cache
-C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.RazorAssemblyInfo.cs
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\bin\Debug\net7.0\appsettings.json
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\bin\Debug\net7.0\REYES_LabActivity1.staticwebassets.runtime.json
@@ -13,6 +6,13 @@ C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\bin\Debug\ne
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\bin\Debug\net7.0\REYES_LabActivity1.runtimeconfig.json
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\bin\Debug\net7.0\REYES_LabActivity1.dll
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\bin\Debug\net7.0\REYES_LabActivity1.pdb
+C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.AssemblyInfoInputs.cache
+C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.AssemblyInfo.cs
+C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.csproj.CoreCompileInputs.cache
+C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.RazorAssemblyInfo.cache
+C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\REYES_LabActivity1.RazorAssemblyInfo.cs
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\staticwebassets\msbuild.REYES_LabActivity1.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\staticwebassets\msbuild.build.REYES_LabActivity1.props
 C:\Users\Allyson\source\repos\REYES_LabActivity1\REYES_LabActivity1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.REYES_LabActivity1.props
