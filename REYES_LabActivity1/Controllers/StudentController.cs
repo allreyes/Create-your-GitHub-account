@@ -30,11 +30,54 @@ namespace REYES_LabActivity1.Controllers
         {
             //Search for the student whose id matches the given id
             Student? student = StudentList.FirstOrDefault(st => st.Id == id);
-            
+
             if (student != null)//was an student found?
                 return View(student);
 
             return NotFound();
+        }
+
+        [HttpGet]
+        public IActionResult AddStudent()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult AddStudent(Student addStudent)
+        {
+
+            StudentList.Add(addStudent);
+            return View("Index", StudentList);
+        }
+
+
+        [HttpGet]
+        public IActionResult UpdateStudent(int id)
+        {
+            //Search for the student whose id matches the given id
+            Student? student = StudentList.FirstOrDefault(st => st.Id == id);
+
+            if (student != null)//was an student found?
+                return View(student);
+
+            return NotFound();
+        }
+
+        [HttpPost]
+        public IActionResult UpdateStudent(Student studentChanges)
+        {
+            Student? student = StudentList.FirstOrDefault(st => st.Id == studentChanges.Id);
+            if(student!= null)
+            {
+                student.FirstName = studentChanges.FirstName;
+                student.LastName = studentChanges.LastName;
+                student.Course = studentChanges.Course;
+                student.GPA = studentChanges.GPA;
+                student.Email = studentChanges.Email;
+                student.AdmissionDate = studentChanges.AdmissionDate;
+            }
+            return View("Index", StudentList);
         }
 
     }
