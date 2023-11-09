@@ -1,0 +1,48 @@
+﻿@model Instructor
+@{
+    ViewData["Title"] = "Add Instructor";
+}
+
+<h2>Add Instructor</h2>
+
+<form asp-action="AddInstructor" method="post">
+    <div class="form-group">
+        <label asp-for="instructorFirstName">First Name</label>
+        <input asp-for="instructorFirstName" class="form-control" />
+        <span asp-validation-for="instructorFirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="instructorLastName">Last Name</label>
+        <input asp-for="instructorLastName" class="form-control" />
+        <span asp-validation-for="instructorLastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="instructorIsTenured">Tenure Status</label>
+        <input asp-for="instructorIsTenured" class="form-control" />
+        <span asp-validation-for="instructorIsTenured" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="instructorEmail">Email</label>
+        <input asp-for="instructorEmail" class="form-control" />
+        <span asp-validation-for="instructorEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="instructorRank">Rank</label>
+        <select asp-for="instructorRank" asp-items="Html.GetEnumSelectList(typeof(REYES_LabActivity1.Models.Hello))" class="form-control">
+            <option value="">Select Rank</option>
+        </select>
+        <span asp-validation-for="instructorRank" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="instructorDateHired">Date Hired</label>
+        <input asp-for="instructorDateHired" class="form-control" />
+        <span asp-validation-for="instructorDateHired" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Instructor</button>
+</form>
